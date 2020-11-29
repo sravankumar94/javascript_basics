@@ -1,1 +1,1 @@
-# javascripy
+# javascript_basics
